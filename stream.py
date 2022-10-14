@@ -11,6 +11,3 @@ file = st.file_uploader("Selecione um arquivo")
 
 
 st.line_chart(file)
-
-st.altair_chart(file)
-#print('ok')
